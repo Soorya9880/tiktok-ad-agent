@@ -170,7 +170,7 @@ All TikTok API calls are mocked for this assignment.
 ### Installation Steps
 
 ```bash
-git clone https://github.com/yourusername/tiktok-ad-agent.git
+git clone https://github.com/Soorya9880/tiktok-ad-agent.git
 cd tiktok-ad-agent
 ```
 
