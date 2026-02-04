@@ -240,6 +240,4 @@ Hello! I'll help you create a TikTok ad campaign...
 
 ---
 
-## 📄 License
 
-MIT License
